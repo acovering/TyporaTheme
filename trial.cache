@@ -7,13 +7,13 @@ email  djfxpcpcy555@965.tmmad.com
 last_checkin  2025-03-31 03:32:48.146671+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  0B  2025-03-31 16:39:24+08:00  (剩余 0B -3 days, 13:04:07.148258)
+sub_info  0B  0B  2025-03-31 16:39:24+08:00  (剩余 0B -3 days, 12:24:24.770533)
 sub_url  https://network.ayucloud.nl/link/B4EHXgwamUi4tVdQ?clash=1
 time  2025-03-30 16:39:26.392052+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
 尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新订阅链接/续费续签失败  注册失败(nsicbveft854@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f206367d960>: Failed to establish a new connection: [Errno 111] Connection refused'))
+更新订阅链接/续费续签失败  注册失败(ksxfzry17@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0c2e211960>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
 
 [qlgq.top]
 
