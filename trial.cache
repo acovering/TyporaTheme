@@ -3,17 +3,14 @@ auth_path  user
 auto_invite  F
 banned_domains  snapmail.cc  lista.cc  smartnator.com  psnator.com  xxxhi.cc
 buy  pass
-email  yxlyquqiu50@spam4.me
-last_checkin  2025-04-06 17:09:43.490040+08:00
+email  iykesuez94@youxiang.dev
+last_checkin  2025-04-07 16:15:44.279330+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  181M  2025-04-05 23:39:23+08:00  (剩余 181M -2 days, 8:00:00.839530)
-sub_url  https://network.ayucloud.nl/link/kDSWNiQrc6ETzKHU?clash=1
-time  2025-04-04 23:39:25.266344+08:00
+sub_info  0B  1.22G  2025-04-08 16:15:43+08:00  (剩余 1.22G 23:59:52.008919)
+sub_url  https://network.ayucloud.nl/link/dozlPUpWT4x3xvgg?clash=1
+time  2025-04-07 16:15:45.223308+08:00
 type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
-尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-更新订阅链接/续费续签失败  注册失败(enhwycx667@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb073515c90>: Failed to establish a new connection: [Errno 111] Connection refused'))
 
 [qlgq.top]
 
