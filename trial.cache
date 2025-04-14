@@ -7,10 +7,11 @@ email  dllzfpet531@ipiso.tmmad.com
 last_checkin  2025-04-14 11:26:11.844663+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.13G  2025-04-15 11:26:11+08:00  (剩余 1.13G 11:12:31.163826)
+sub_info  0B  1.13G  2025-04-15 11:26:11+08:00  (剩余 1.13G 10:41:01.499082)
 sub_url  https://network.ayucloud.nl/link/VXvNFzkZinKMPxGi?clash=1
 time  2025-04-14 11:26:12.810717+08:00
 type  sspanel
+尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
