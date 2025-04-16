@@ -7,10 +7,11 @@ email  rhzyoapr467@oakon.com
 last_checkin  2025-04-16 10:25:02.560152+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.255G  2025-04-17 10:25:02+08:00  (剩余 1.255G 10:10:38.094991)
+sub_info  0B  1.255G  2025-04-17 10:25:02+08:00  (剩余 1.255G 9:39:05.981281)
 sub_url  https://network.ayucloud.nl/link/o9mbsV3cXMIZgCzh?clash=1
 time  2025-04-16 10:25:03.489103+08:00
 type  sspanel
+尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
