@@ -3,17 +3,14 @@ auth_path  user
 auto_invite  F
 banned_domains  snapmail.cc  lista.cc  smartnator.com  psnator.com  xxxhi.cc
 buy  pass
-email  qdxumqomk375@rgzx.tmmad.com
-last_checkin  2025-05-05 00:12:53.337146+08:00
+email  zocwfckiz799@mxl001.win
+last_checkin  2025-05-06 08:55:24.415986+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  0B  2025-05-06 00:12:52+08:00  (剩余 0B -1 day, 16:35:29.169574)
-sub_url  https://network.ayucloud.nl/link/tzBSpgXOpMwpB5yj?clash=1
-time  2025-05-05 00:12:54.355487+08:00
+sub_info  0B  1.177G  2025-05-07 08:55:24+08:00  (剩余 1.177G 23:59:54.136764)
+sub_url  https://network.ayucloud.nl/link/1eSiZ3n2Vh7Dojjb?clash=1
+time  2025-05-06 08:55:25.411105+08:00
 type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新订阅链接/续费续签失败  注册失败(bamenaes91@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
