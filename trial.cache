@@ -11,7 +11,7 @@ sub_info  0B  1.729G  2025-06-02 21:00:55+08:00  (剩余 1.729G -1 day, 23:55:32
 sub_url  https://network.ayucloud.nl/link/txcrGhbdAejOdQwK?clash=1
 time  2025-06-01 21:00:56.812654+08:00
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(yljaytkol503@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新旧订阅失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
