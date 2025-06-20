@@ -7,12 +7,11 @@ email  qpolzxdr892@huiplay.com
 last_checkin  2025-06-20 16:45:55.586953+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.194G  2025-06-21 16:45:55+08:00  (剩余 1.194G 11:35:31.841549)
+sub_info  0B  1.194G  2025-06-21 16:45:55+08:00  (剩余 1.194G 10:34:57.972555)
 sub_url  https://network.ayucloud.nl/link/QmxXXHTjhE9kxrMO?clash=1
 time  2025-06-20 16:45:56.574800+08:00
 type  sspanel
 尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新旧订阅失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /link/QmxXXHTjhE9kxrMO?clash=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc31defae00>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
 
 [qlgq.top]
 
