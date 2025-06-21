@@ -7,12 +7,11 @@ email  ovwckls453@youxiang.dev
 last_checkin  2025-06-21 22:10:37.199796+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.215G  2025-06-22 22:10:36+08:00  (剩余 1.215G 21:25:54.779918)
+sub_info  0B  1.215G  2025-06-22 22:10:36+08:00  (剩余 1.215G 20:33:02.882045)
 sub_url  https://ayucloud.services/link/d65QjIL39fS8Osgc?clash=1
 time  2025-06-21 22:10:38.188898+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新旧订阅失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/login (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd07991ed70>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
+尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 
 [qlgq.top]
 
