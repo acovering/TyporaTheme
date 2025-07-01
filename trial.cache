@@ -7,10 +7,11 @@ email  lnejoae639@6n9.net
 last_checkin  2025-07-01 22:41:48.551214+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.083G  2025-07-02 22:41:48+08:00  (剩余 1.083G 17:04:11.362440)
+sub_info  0B  1.083G  2025-07-02 22:41:48+08:00  (剩余 1.083G 16:30:35.443617)
 sub_url  https://network.ayucloud.nl/link/X7jQEpIVHoOGFgiU?clash=1
 time  2025-07-01 22:41:49.490985+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: 'NoneType' object is not iterable
 尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 
 [qlgq.top]
