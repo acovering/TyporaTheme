@@ -11,7 +11,7 @@ sub_info  0B  1.772G  2025-07-06 13:40:50+08:00  (剩余 1.772G 0:00:01.325436)
 sub_url  https://network.ayucloud.nl/link/q53FxPFxgkaALxRK?clash=1
 time  2025-07-05 13:40:51.824418+08:00
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(orblatwgd781@gmail.com): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+更新旧订阅失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
