@@ -7,12 +7,12 @@ email  gigctkcd846@spam4.me
 last_checkin  2025-08-05 00:53:40.659789+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  248M  2025-08-05 00:47:05+08:00  (剩余 248M -1 day, 19:03:48.024120)
+sub_info  0B  248M  2025-08-05 00:47:05+08:00  (剩余 248M -1 day, 18:34:03.708269)
 sub_url  https://network.ayucloud.nl/link/DpmPD9KNK7NpJwet?clash=1
 time  2025-08-04 00:47:06.680764+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  获取邮箱失败: HTTPSConnectionPool(host='rootsh.com', port=443): Read timed out. (read timeout=30)
+更新订阅链接/续费续签失败  注册失败(vrhzlqohf426@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
