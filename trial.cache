@@ -7,7 +7,7 @@ email  dlrwgbk776@guerrillamail.com
 last_checkin  2025-09-05 02:15:44.266274+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.023G  2025-09-06 02:15:43+08:00  (剩余 1.023G 15:06:12.761023)
+sub_info  0B  1.023G  2025-09-06 02:15:43+08:00  (剩余 1.023G 14:28:59.242024)
 sub_url  https://network.ayucloud.nl/link/FrrnTLERKYSA7Ech?clash=1
 time  2025-09-05 02:15:45.663867+08:00
 type  sspanel
@@ -16,7 +16,7 @@ type  sspanel
 api_host  ww38.qlgq.top
 name  qlgq.top
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(nrzcivglq880@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  注册失败(mkzucfks690@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /auth/register (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1017)')))
 
 [cyanmori.com]
 
