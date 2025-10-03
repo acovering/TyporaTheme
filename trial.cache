@@ -7,16 +7,17 @@ email  tsxkzlay99@pastryofistanbul.com
 last_checkin  2025-10-04 01:34:34.982798+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  0B  1.742G  2025-10-04 06:10:06+08:00  (剩余 1.742G 1:00:44.509754)
+sub_info  0B  1.742G  2025-10-04 06:10:06+08:00  (剩余 1.742G 0:37:10.283017)
 sub_url  https://network.ayucloud.nl/link/MoKTOyEB7rSuxaZH?clash=1
 time  2025-10-03 06:10:07.626584+08:00
 type  sspanel
+更新订阅链接/续费续签失败  注册失败(mqdubbvix461@tmails.net): 邮箱后缀已被拉黑
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 name  qlgq.top
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(yavnjeei577@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f70fd19e860>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
+更新订阅链接/续费续签失败  注册失败(mxizrdi517@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f41477c3040>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
 
 [cyanmori.com]
 
