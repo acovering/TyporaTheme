@@ -3,21 +3,20 @@ auth_path  user
 auto_invite  F
 banned_domains  snapmail.cc  lista.cc  smartnator.com  psnator.com  xxxhi.cc  tmpnator.live  femailtor.com  bccto.cc  mail.shouyou789.com  mxl001.win  tomystudio.com  ipiso.tmmad.com  wwobs.com  adtgng.tmmad.com  lplso.tmmad.com  25ua.com  wfes.site  51788.top  rgzx.tmmad.com  x866.cc  jkb.tmmad.com  vapeuccino.com  965.tmmad.com  huiplay.com  mail.wvwvw.tech  jkd.tmmad.com  lyx13.xyz  mydefipet.live  deomail.top
 buy  pass
-email  ujsjthkv274@youxiang.dev
-last_checkin  2025-10-20 01:08:49.932319+08:00
+email  itrkuah580@linshiyou.com
+last_checkin  2025-10-20 23:37:57.535838+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  0B  1.901G  2025-10-20 23:33:45+08:00  (剩余 1.901G 0:21:47.219770)
-sub_url  https://network.ayucloud.nl/link/CWIMBEuP2UxJSVbC?clash=1
-time  2025-10-19 23:33:47.096475+08:00
+sub_info  0B  1.165G  2025-10-21 23:37:57+08:00  (剩余 1.165G 23:59:55.093119)
+sub_url  https://network.ayucloud.nl/link/oLnrgFxVXfSKTUiq?clash=1
+time  2025-10-20 23:37:58.551261+08:00
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(mdcmsgij882@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 name  qlgq.top
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(cmxhewq860@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f9ce3c03670>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
+更新订阅链接/续费续签失败  注册失败(mcpzlsco599@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1e6a4e6a40>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
 
 [cyanmori.com]
 
