@@ -4,22 +4,21 @@ auto_invite  F
 banned_domains  snapmail.cc  lista.cc  smartnator.com  psnator.com  xxxhi.cc  tmpnator.live  femailtor.com  bccto.cc  mail.shouyou789.com  mxl001.win  tomystudio.com  ipiso.tmmad.com  wwobs.com  adtgng.tmmad.com  lplso.tmmad.com  25ua.com  wfes.site  51788.top  rgzx.tmmad.com  x866.cc  jkb.tmmad.com  vapeuccino.com  965.tmmad.com  huiplay.com  mail.wvwvw.tech  jkd.tmmad.com  lyx13.xyz  mydefipet.live  deomail.top
 buy  pass
 email  itrkuah580@linshiyou.com
-last_checkin  2025-10-21 01:37:16.267308+08:00
+last_checkin  2025-10-22 01:37:46.185657+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  0B  0B  2025-10-21 23:37:57+08:00  (剩余 0B -1 day, 22:24:24.907823)
+sub_info  0B  131M  2025-10-21 23:37:57+08:00  (剩余 131M -1 day, 21:59:55.007749)
 sub_url  https://network.ayucloud.nl/link/oLnrgFxVXfSKTUiq?clash=1
 time  2025-10-20 23:37:58.551261+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新订阅链接/续费续签失败  注册失败(gxisdfddq357@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6a0c727940>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
+更新订阅链接/续费续签失败  注册失败(gppnafytc807@disbox.net): 邮箱后缀已被拉黑
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 name  qlgq.top
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(svnpful920@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f6a0c7b9210>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
+更新订阅链接/续费续签失败  注册失败(jhjkoumtb394@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f47ff4ff430>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
 
 [cyanmori.com]
 
