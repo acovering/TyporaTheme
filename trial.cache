@@ -7,18 +7,18 @@ email  owhvlhsyx456@guerrillamail.biz
 last_checkin  2025-10-26 01:08:53.105540+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  0B  0B  2025-10-26 08:53:32+08:00  (剩余 0B -1 day, 21:17:21.578065)
+sub_info  0B  0B  2025-10-26 08:53:32+08:00  (剩余 0B -1 day, 20:40:05.489326)
 sub_url  https://network.ayucloud.nl/link/y1XSees4jmC6jNnF?clash=1
 time  2025-10-25 08:53:33.897581+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(hausyss28@gmail.com): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+更新订阅链接/续费续签失败  注册失败(wkpkaoc318@bareed.ws): 邮箱后缀已被拉黑
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 name  qlgq.top
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(ozibeue911@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f4f82cef3a0>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
+更新订阅链接/续费续签失败  注册失败(nuppfjrw307@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7ff28a0eaec0>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
 
 [cyanmori.com]
 
