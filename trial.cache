@@ -13,13 +13,13 @@ time  2025-11-22 15:35:30.792100+08:00
 type  sspanel
 保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
-更新订阅链接/续费续签失败  注册失败(ofuarmv50@tmpmail.org): 邮箱后缀已被拉黑
+更新订阅链接/续费续签失败  发送邮箱验证码失败(putxbjct861@moakt.cc): 解析 json 失败: Extra data: line 1 column 103 (char 102) (200 OK '{"ret":1,"msg":"\\u9a8c\\u8bc1\\u7801\\u53d1\\u9001\\u6210\\u529f\\uff0c\\u8bf7\\u67e5\\u6536\\u90ae\\u4ef6\\u3002"}SDK.ServerUnreachableServer unreachable: Errno: 56 Recv failure: Connection reset by peer')
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 name  qlgq.top
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(enfgkrekk44@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f2a65ef9cf0>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
+更新订阅链接/续费续签失败  注册失败(boxvbkz307@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f32bf9ea800>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
 
 [cyanmori.com]
 
