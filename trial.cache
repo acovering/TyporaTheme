@@ -3,23 +3,23 @@ auth_path  user
 auto_invite  F
 banned_domains  snapmail.cc  lista.cc  smartnator.com  psnator.com  xxxhi.cc  tmpnator.live  femailtor.com  bccto.cc  mail.shouyou789.com  mxl001.win  tomystudio.com  ipiso.tmmad.com  wwobs.com  adtgng.tmmad.com  lplso.tmmad.com  25ua.com  wfes.site  51788.top  rgzx.tmmad.com  x866.cc  jkb.tmmad.com  vapeuccino.com  965.tmmad.com  huiplay.com  mail.wvwvw.tech  jkd.tmmad.com  lyx13.xyz  mydefipet.live  deomail.top  xdanae.com  vapelato.com  bookmorpho.cfd  12316hfk.com  lushenticbag.com
 buy  pass
-email  alrfvjf960@guerrillamail.com
-last_checkin  2025-11-25 10:42:01.333386+08:00
+email  hmytkahif175@guerrillamail.com
+last_checkin  2025-11-25 12:45:35.779975+08:00
 name  AyucLouD-Services
 node_n  105
 sub_info  0B  1.862G  2025-11-23 15:35:26+08:00  (剩余 1.862G 0:01:04.723131)
 sub_url  https://network.ayucloud.nl/link/bh9UPHRsUn9mcS69?clash=1
 time  2025-11-22 15:35:30.792100+08:00
 type  sspanel
-保存base64/clash订阅失败  'proxies'
+保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
-更新订阅链接/续费续签失败  注册失败(gxfxyisxf711@moakt.co): 邮箱后缀已被拉黑
+更新订阅链接/续费续签失败  未找到订阅链接
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 name  qlgq.top
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(ezknljdxf784@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbc90d256f0>: Failed to resolve 'ww38.qlgq.top' ([Errno -3] Temporary failure in name resolution)"))
+更新订阅链接/续费续签失败  注册失败(whxlmkze346@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fe5d7a074f0>: Failed to resolve 'ww38.qlgq.top' ([Errno -3] Temporary failure in name resolution)"))
 
 [cyanmori.com]
 
