@@ -13,13 +13,13 @@ time  2025-11-22 15:35:30.792100+08:00
 type  sspanel
 保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
-更新旧订阅失败  (https://ayucloud.services/link/bh9UPHRsUn9mcS69?clash=1): 403 Forbidden '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>403 Forbidden</title>\n\t<style>\n\t\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n<h1>403 Forbidden By WAF</h1>\n<address>Connection: 135.232.177.112 (Client) -&gt; (Server)</address>\n<address>Request ID: 176474990944251000001</address>\n</body>\n</html>'
+更新旧订阅失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 name  qlgq.top
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(euuoyvu405@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed 'Method Not Allowed')
+更新订阅链接/续费续签失败  注册失败(rnududkem856@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed 'Method Not Allowed')
 
 [cyanmori.com]
 
