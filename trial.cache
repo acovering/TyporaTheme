@@ -4,7 +4,7 @@ auto_invite  F
 banned_domains  snapmail.cc  lista.cc  smartnator.com  psnator.com  xxxhi.cc  tmpnator.live  femailtor.com  bccto.cc  mail.shouyou789.com  mxl001.win  tomystudio.com  ipiso.tmmad.com  wwobs.com  adtgng.tmmad.com  lplso.tmmad.com  25ua.com  wfes.site  51788.top  rgzx.tmmad.com  x866.cc  jkb.tmmad.com  vapeuccino.com  965.tmmad.com  huiplay.com  mail.wvwvw.tech  jkd.tmmad.com  lyx13.xyz  mydefipet.live  deomail.top  xdanae.com  vapelato.com  bookmorpho.cfd  12316hfk.com  lushenticbag.com  5949o.com  vapechroma.com  vapesculpt.com
 buy  pass
 email  fuilyhb853@spam4.me
-last_checkin  2025-12-14 07:35:52.903345+08:00
+last_checkin  2025-12-15 02:46:18.811038+08:00
 name  AyucLouD-Services
 node_n  105
 sub_info  0B  1.862G  2025-11-23 15:35:26+08:00  (剩余 1.862G 0:01:04.723131)
@@ -13,14 +13,13 @@ time  2025-11-22 15:35:30.792100+08:00
 type  sspanel
 保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新旧订阅失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  发送邮箱验证码失败(acbqtly545@guerrillamail.de): {'ret': 0, 'msg': '该邮箱后缀不允许注册，若您需要其他有效的邮箱后缀注册，请联系客服部门<br>当前仅允许的邮箱后缀为：gmail.com、qq.com、outlook.com、163.com、126.com、yeah.net、foxmail.com、sina.com、hotmail.com'}
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 name  qlgq.top
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(evsjaigoi745@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed 'Method Not Allowed')
+更新订阅链接/续费续签失败  注册失败(tiqtclbnq214@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed 'Method Not Allowed')
 
 [cyanmori.com]
 
