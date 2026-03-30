@@ -2,7 +2,7 @@
 auth_path  user
 name  AyucLouD-Services
 type  sspanel
-更新订阅链接/续费续签失败  获取邮箱失败: HTTPSConnectionPool(host='rootsh.com', port=443): Read timed out. (read timeout=30)
+更新订阅链接/续费续签失败  注册失败(rtzihzan975@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
